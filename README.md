@@ -1,0 +1,2 @@
+# mdc
+maximo divisor comum
